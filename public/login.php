@@ -57,6 +57,7 @@ if (isset($_POST['email']) && isset($_POST['senha'])) {
         }
     }
 }
+
 ?>
 
 <!DOCTYPE html>
@@ -94,5 +95,6 @@ if (isset($_POST['email']) && isset($_POST['senha'])) {
         ?>
          <p>não tem uma conta? <a href="registro.php" style="color: rgb(43, 73, 156);">Crie uma</a></p>
     </div>
+    
 </body>
 </html>

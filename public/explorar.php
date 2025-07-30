@@ -46,7 +46,20 @@ if (isset($_SESSION['caminhofoto']) && !empty($_SESSION['caminhofoto'])) {
 
 
 
+    <main class="maine"> 
 
+   <div class="bnr">
+
+
+   </div>
+
+
+
+    <div class="bks">
+          sdfdsfdsfs
+
+
+    </main>
 
     
 </body>
